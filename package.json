@@ -1,0 +1,19 @@
+{
+  "name": "@coxy/react-native-privacy-blur",
+  "version": "1.0.1",
+  "description": "",
+  "react-native": "src/index.ts",
+  "main": "src/index.ts",
+  "types": "src/index.d.ts",
+  "peerDependencies": {
+    "react": ">=18",
+    "react-native": ">=0.73"
+  },
+  "devDependencies": {
+    "@types/react-native": "0.73.0",
+    "@biomejs/biome": "2.1.4",
+    "typescript": "5.5.3",
+    "@react-native-community/cli": "latest",
+    "@react-native/codegen": "latest"
+  }
+}
